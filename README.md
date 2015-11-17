@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # eAdmin backend services
 
 ## TO BE COMPLETED
@@ -25,3 +26,6 @@ docker --help
 # En Intégration
 Le point d'accès pour lister tous les services est :
 https://apps.athena-software.fr/eadmin-ground-backend/swagger-ui.html
+=======
+# nikoniko-backend
+>>>>>>> dfb95ba4b46b0633ab9ae1c796908841a1a2bd30
